@@ -1,0 +1,64 @@
+{
+    "vehicles":[
+        {
+            "id":1,
+            "image":"https://images.pexels.com/photos/2664399/pexels-photo-2664399.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Ferrari",
+            "price":200000,
+            "mileage":10000,
+            "color":"Red",
+            "seats":5,
+            "fuel":"Diesel",
+            "gear":"Manual",
+            "description":"A stylish car"
+        },
+        {
+            "id":2,
+            "image":"https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Rolls royce",
+            "price":250000,
+            "mileage":10000,
+            "color":"White",
+            "seats":8,
+            "fuel":"Petrol",
+            "gear":"Manual",
+            "description":"A reliable and stylish family car"
+        }, 
+        {
+            "id":3,
+            "image":"https://images.pexels.com/photos/3972755/pexels-photo-3972755.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Lamborgini",
+            "price":200000,
+            "mileage":15000,
+            "color":"Orange",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"The stylish sports car"
+        },
+        {
+            "id":4,
+            "image":"https://images.pexels.com/photos/17507722/pexels-photo-17507722/free-photo-of-white-toyota-86-sports-car-parked-by-an-abandoned-factory-warehouse.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Toyota Corolla",
+            "price":100000,
+            "mileage":15000,
+            "color":"White",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"A reliable family car"
+        },   
+        {
+            "id":5,
+            "image":"https://images.pexels.com/photos/995232/pexels-photo-995232.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"BMW",
+            "price":200000,
+            "mileage":15000,
+            "color":"Blue",
+            "seats":5,
+            "fuel":"Diesel",
+            "gear":"Manual",
+            "description":"A family car"
+        }
+    ]
+}
