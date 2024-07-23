@@ -50,8 +50,10 @@ function VehicleList() {
                     <li className="car-text">Gear: {vehicle.gear}</li>
                     <li className="car-text">Description: {vehicle.description}</li>
                   </ul>
-                  <button type="button" className="btn btn-danger" onClick={() => handleDelete(vehicle.id)}>Delete</button>
-                  <button type="button" className="btn btn-dark" onClick={() => navigate(`/update-vehicle/${vehicle.id}`)}>Update</button>
+                  <div className="d-flex justify-content mt-3">
+                    <button type="button" className="btn btn-danger me-2" onClick={() => handleDelete(vehicle.id)}>Delete</button>
+                    <button type="button" className="btn btn-dark" onClick={() => navigate(`/update-vehicle/${vehicle.id}`)}>Update</button>
+                  </div>
                 </div>
               </div>
             </div>
