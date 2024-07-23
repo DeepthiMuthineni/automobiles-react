@@ -1,64 +1,88 @@
 {
-    "vehicles":[
-        {
-            "id":1,
-            "image":"https://images.pexels.com/photos/2664399/pexels-photo-2664399.jpeg?auto=compress&cs=tinysrgb&w=600",
-            "name":"Ferrari",
-            "price":200000,
-            "mileage":10000,
-            "color":"Red",
-            "seats":5,
-            "fuel":"Diesel",
-            "gear":"Manual",
-            "description":"A stylish car"
-        },
-        {
-            "id":2,
-            "image":"https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=600",
-            "name":"Rolls royce",
-            "price":250000,
-            "mileage":10000,
-            "color":"White",
-            "seats":8,
-            "fuel":"Petrol",
-            "gear":"Manual",
-            "description":"A reliable and stylish family car"
-        }, 
-        {
-            "id":3,
-            "image":"https://images.pexels.com/photos/3972755/pexels-photo-3972755.jpeg?auto=compress&cs=tinysrgb&w=600",
-            "name":"Lamborgini",
-            "price":200000,
-            "mileage":15000,
-            "color":"Orange",
-            "seats":5,
-            "fuel":"Petrol",
-            "gear":"Automatic",
-            "description":"The stylish sports car"
-        },
-        {
-            "id":4,
-            "image":"https://images.pexels.com/photos/17507722/pexels-photo-17507722/free-photo-of-white-toyota-86-sports-car-parked-by-an-abandoned-factory-warehouse.jpeg?auto=compress&cs=tinysrgb&w=600",
-            "name":"Toyota Corolla",
-            "price":100000,
-            "mileage":15000,
-            "color":"White",
-            "seats":5,
-            "fuel":"Petrol",
-            "gear":"Automatic",
-            "description":"A reliable family car"
-        },   
-        {
-            "id":5,
-            "image":"https://images.pexels.com/photos/995232/pexels-photo-995232.jpeg?auto=compress&cs=tinysrgb&w=600",
-            "name":"BMW",
-            "price":200000,
-            "mileage":15000,
-            "color":"Blue",
-            "seats":5,
-            "fuel":"Diesel",
-            "gear":"Manual",
-            "description":"A family car"
-        }
-    ]
+  "vehicles": [
+    {
+      "id": "1",
+      "image": "https://images.pexels.com/photos/2664399/pexels-photo-2664399.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Ferrari",
+      "price": 200000,
+      "mileage": 10000,
+      "color": "Red",
+      "seats": 5,
+      "fuel": "Diesel",
+      "gear": "Manual",
+      "description": "A stylish car"
+    },
+    {
+      "id": "2",
+      "image": "https://images.pexels.com/photos/3764984/pexels-photo-3764984.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Rolls royce",
+      "price": 250000,
+      "mileage": 10000,
+      "color": "White",
+      "seats": 8,
+      "fuel": "Petrol",
+      "gear": "Manual",
+      "description": "A reliable and stylish family car"
+    },
+    {
+      "id": "3",
+      "image": "https://images.pexels.com/photos/3972755/pexels-photo-3972755.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Lamborgini",
+      "price": 200000,
+      "mileage": 15000,
+      "color": "Orange",
+      "seats": 5,
+      "fuel": "Petrol",
+      "gear": "Automatic",
+      "description": "The stylish sports car"
+    },
+    {
+      "id": "5",
+      "image": "https://images.pexels.com/photos/995232/pexels-photo-995232.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "BMW",
+      "price": 200000,
+      "mileage": 15000,
+      "color": "Blue",
+      "seats": 5,
+      "fuel": "Diesel",
+      "gear": "Manual",
+      "description": "A family car"
+    },
+    {
+      "id": "f4a9",
+      "image": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Audi testcar",
+      "price": 40000,
+      "mileage": 10000,
+      "color": "blue",
+      "seats": 5,
+      "fuel": "Petrol",
+      "gear": "Manual",
+      "description": "A stylish car"
+    },
+    {
+      "id": "6b5e",
+      "image": "https://images.pexels.com/photos/909907/pexels-photo-909907.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Toyato coralla",
+      "price": 30000,
+      "mileage": 10000,
+      "color": "white",
+      "seats": 6,
+      "fuel": "Diesel",
+      "gear": "Automatic",
+      "description": "A stylish car"
+    },
+    {
+      "image": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Audi testcar1",
+      "price": 50000,
+      "mileage": 10000,
+      "color": "Blue",
+      "seats": 4,
+      "fuel": "Diesel",
+      "gear": "Automatic",
+      "description": "A stylish car",
+      "id": "51d1"
+    }
+  ]
 }
